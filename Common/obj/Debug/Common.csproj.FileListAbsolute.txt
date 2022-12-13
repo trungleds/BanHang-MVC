@@ -1,0 +1,11 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Common\bin\Debug\Common.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Common\bin\Debug\Common.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Common\obj\Debug\Common.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Common\obj\Debug\Common.pdb
+C:\D\ThucTap\Database\Common\bin\Debug\Common.dll
+C:\D\ThucTap\Database\Common\bin\Debug\Common.pdb
+C:\D\ThucTap\Database\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\D\ThucTap\Database\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\D\ThucTap\Database\Common\obj\Debug\Common.dll
+C:\D\ThucTap\Database\Common\obj\Debug\Common.pdb

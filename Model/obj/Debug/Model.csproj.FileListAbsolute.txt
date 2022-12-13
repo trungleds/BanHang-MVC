@@ -1,0 +1,40 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.dll.config
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\StaticResources.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Common.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Common.pdb
+C:\D\ThucTap\Database\Model\bin\Debug\Model.dll.config
+C:\D\ThucTap\Database\Model\bin\Debug\Model.dll
+C:\D\ThucTap\Database\Model\bin\Debug\Model.pdb
+C:\D\ThucTap\Database\Model\bin\Debug\Common.dll
+C:\D\ThucTap\Database\Model\bin\Debug\EntityFramework.dll
+C:\D\ThucTap\Database\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\ThucTap\Database\Model\bin\Debug\PagedList.dll
+C:\D\ThucTap\Database\Model\bin\Debug\PagedList.Mvc.dll
+C:\D\ThucTap\Database\Model\bin\Debug\StaticResources.dll
+C:\D\ThucTap\Database\Model\bin\Debug\Common.pdb
+C:\D\ThucTap\Database\Model\bin\Debug\StaticResources.pdb
+C:\D\ThucTap\Database\Model\bin\Debug\EntityFramework.xml
+C:\D\ThucTap\Database\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\ThucTap\Database\Model\bin\Debug\PagedList.xml
+C:\D\ThucTap\Database\Model\bin\Debug\PagedList.Mvc.xml
+C:\D\ThucTap\Database\Model\bin\Debug\en\StaticResources.resources.dll
+C:\D\ThucTap\Database\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\D\ThucTap\Database\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\D\ThucTap\Database\Model\obj\Debug\Model.csproj.CopyComplete
+C:\D\ThucTap\Database\Model\obj\Debug\Model.dll
+C:\D\ThucTap\Database\Model\obj\Debug\Model.pdb

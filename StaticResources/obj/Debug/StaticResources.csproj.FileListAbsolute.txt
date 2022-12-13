@@ -1,0 +1,20 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.Cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.pdb
+C:\D\ThucTap\Database\StaticResources\bin\Debug\StaticResources.dll
+C:\D\ThucTap\Database\StaticResources\bin\Debug\StaticResources.pdb
+C:\D\ThucTap\Database\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\D\ThucTap\Database\StaticResources\obj\Debug\StaticResources.csproj.AssemblyReference.cache
+C:\D\ThucTap\Database\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\D\ThucTap\Database\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\D\ThucTap\Database\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+C:\D\ThucTap\Database\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+C:\D\ThucTap\Database\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\D\ThucTap\Database\StaticResources\obj\Debug\StaticResources.dll
+C:\D\ThucTap\Database\StaticResources\obj\Debug\StaticResources.pdb
